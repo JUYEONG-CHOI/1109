@@ -4,5 +4,6 @@ using namespace std;
 int main()
 {
   cout << "hello, 미래!";
+  cout << "hello, haha!";
   return 0;
 }
